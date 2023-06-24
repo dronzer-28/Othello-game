@@ -2,7 +2,7 @@
 
 ## Othello Game Implementation
 
-Description: Implemented the Othello game using Java, following the standard game rules and mechanics. Developed the game logic, including move validation, score calculation, and determining the winner. Utilized the Minimax algorithm with k-step look-ahead for AI player moves.
+Description: Implemented the Othello game using Java, following the standard game rules and mechanics. Developed the game logic, including move validation, score calculation, and determining the winner. Utilized the Minimax algorithm with alpha-beta pruning for AI player moves to improve performance and reduce unnecessary computations.
 
 Technologies: Java, File I/O, Algorithms
 
