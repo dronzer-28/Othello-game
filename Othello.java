@@ -24,10 +24,8 @@ public class Othello {
         }
         winner = -1;
         sc.close();
-        // Student can choose to add preprocessing here
     }
 
-    // add required helper functions here
     private boolean isValidMove(int i, int j) {
         if (board[i][j] != -1) {
             return false;
